@@ -27,7 +27,7 @@ Practicas
 
 * [Toma de requerimientos](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/01%20Requerimientos)
 
-* Crea tu buyer persona
+* [Crea tu buyer persona](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/02%20Buyer%20Persona)
 
 * Publico objetivo
 
