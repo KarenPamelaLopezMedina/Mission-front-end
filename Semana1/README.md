@@ -29,10 +29,10 @@ Practicas
 
 * [Crea tu buyer persona](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/02%20Buyer%20Persona)
 
-* Publico objetivo
+* [Publico objetivo](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/03P%C3%BAblico%20Objetivo)
 
-* Crea tu primer Wireframe UX
+* [Crea tu primer Wireframe UX](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/04-Wireframes)
 
-* Ahora el UI
+* [Ahora el UI](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/05-UI%20design)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
