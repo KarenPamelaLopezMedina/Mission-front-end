@@ -1,4 +1,4 @@
-Descripción de las prácticas
+# Descripción de las prácticas
 
 Practicas de Intro a Frontend
 Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sacar los puntos mencionados abajo.
@@ -26,8 +26,13 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 Practicas
 
 [Toma de requerimientos](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/01%20Requerimientos)
+
 Crea tu buyer persona
+
 Publico objetivo
+
 Crea tu primer Wireframe UX
+
 Ahora el UI
+
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
