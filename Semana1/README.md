@@ -25,14 +25,14 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 
 Practicas
 
-[Toma de requerimientos](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/01%20Requerimientos)
+* [Toma de requerimientos](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1/01%20Requerimientos)
 
-Crea tu buyer persona
+* Crea tu buyer persona
 
-Publico objetivo
+* Publico objetivo
 
-Crea tu primer Wireframe UX
+* Crea tu primer Wireframe UX
 
-Ahora el UI
+* Ahora el UI
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
