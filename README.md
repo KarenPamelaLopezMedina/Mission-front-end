@@ -5,7 +5,7 @@ Tendrá varias carpetas
 
 01 - INTRO [Semana 1](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana1)
 
-02 - HTML
+02 - HTML [Semana 2](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana2)
 
 03 - CSS
 
