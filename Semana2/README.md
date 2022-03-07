@@ -18,6 +18,6 @@ Descripción:
 * El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 * La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
-Descripción breve de los segmentos de la página web para venta de pasteles:
+## Descripción breve de los segmentos de la página web para venta de pasteles:
 
 - [Menú principal de página WEB](https://github.com/KarenPamelaLopezMedina/Mission-front-end/blob/main/Semana2/programas/MenuPasteleria.html)
