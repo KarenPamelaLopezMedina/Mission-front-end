@@ -17,3 +17,5 @@ Descripción:
 * El pastelero necesita tener la información de la cantidad de adornos que le quedan para hacer los pasteles.
 * El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 * La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
+
+- [Menú principal de página WEB] (https://github.com/KarenPamelaLopezMedina/Mission-front-end/blob/main/Semana2/programas/MenuPasteleria.html)
