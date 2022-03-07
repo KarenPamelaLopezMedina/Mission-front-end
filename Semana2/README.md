@@ -21,3 +21,4 @@ Descripción:
 ## Descripción breve de los segmentos de la página web para venta de pasteles:
 
 - [Menú principal de página WEB](https://github.com/KarenPamelaLopezMedina/Mission-front-end/blob/main/Semana2/programas/MenuPasteleria.html)
+- [Formulario y detalles de un pedido](https://github.com/KarenPamelaLopezMedina/Mission-front-end/blob/main/Semana2/programas/Pedido.html)
