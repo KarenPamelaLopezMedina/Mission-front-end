@@ -7,7 +7,7 @@ Tendrá varias carpetas
 
 02 - HTML [Semana 2](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana2)
 
-03 - CSS [Semana 3](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana3)
+03 - CSS [Semana 3](https://github.com/KarenPamelaLopezMedina/Mission-front-end/tree/main/Semana%203)
 
 04 - JS
 
